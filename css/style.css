@@ -59,6 +59,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
 	font-size:33px;
 	margin-bottom:20px;
+
 }
 
 h2 {
@@ -154,7 +155,7 @@ h6 {
 #header h1{
 	font-size:32px;
 	font-family:Georgia, "Times New Roman", Times, serif;
-	color:#daddd6;
+	color:#f8f7f7;
 	margin:0px;
 	padding:0px 0px 10px;
 }
