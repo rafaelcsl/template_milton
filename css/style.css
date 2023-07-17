@@ -203,13 +203,13 @@ h6 {
 
 .navigation ul li a:hover{
 	text-decoration:underline;
+	font-size: 130%;
 }
 
 .navigation ul li:last-child {
 	border-right:none;
 }
 /*----end header----*/
-
 
 /*----start page content----*/
 #page_content{
@@ -301,7 +301,7 @@ a.btn:hover{
 
 .right_side_bar .col_1 .box ul li{
 	margin:0px 0px 8px;
-	padding:0px 0px 0px 15px;
+	padding:0px 0px 0px 10px;
 	font-size:12px;
 	list-style-type:none;
 	background:url(../images/li.png) no-repeat left center;
